@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "berry-pretty": "^0.0.5",
+    "vitest": "^2.1.5"
+  },
+  "dependencies": {
+    "wallaby-log-example": "link:"
+  }
+}
