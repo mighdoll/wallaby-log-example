@@ -1,10 +1,5 @@
 {
   "devDependencies": {
-    "berry-pretty": "^0.0.5",
-    "console-table-printer": "^2.12.1",
-    "vitest": "^2.1.5"
-  },
-  "dependencies": {
-    "wallaby-log-example": "link:"
+    "vitest": "^2.1.8"
   }
 }
